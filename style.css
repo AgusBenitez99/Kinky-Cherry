@@ -1,0 +1,32 @@
+
+
+.d-flex{
+    float: right;
+}
+.titulo1 {
+    text-align: center;
+}
+.titulo2 {
+    text-align: center;
+}
+.producto-sugerido{
+    margin-top: 15px;
+  margin-left: 20px;
+  
+  color: rgb(0, 0, 0);
+  
+}
+.producto-sugerido img.img2{
+    
+    float: left;
+    margin-right: 30px;
+}
+
+
+.img-banner{
+    margin-left: 20px;
+}
+
+.img2{
+    float: left;
+}
